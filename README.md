@@ -1,9 +1,12 @@
 # AllBooks
 
 Ao criar seu repositório local, você deve seguir os seguintes passos:
+
+```bash
 git init
 git branch -M main
 git remote add origin <URL>
+```
 
 O AllBooks é uma loja virtual que vende livros da Casa do Código. 
 É um MVP que tá só começando e ainda tem muitas funcionalidades novas para serem desenvolvidas.
